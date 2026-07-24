@@ -4,7 +4,7 @@
 
 ## معماری پروژه
 
-معماری پروژه باید بر پایه‌ی **MVI & Clean Architecture** پیاده‌سازی شود. مرزبندی بین لایه‌های Presentation، Domain و Data باید حفظ شود و جریان وضعیت UI از طریق Intent، ViewState و Single Source of Truth مدیریت شود.
+معماری پروژه باید بر پایه‌ی **MVI & Clean Architecture** پیاده‌سازی شود. مرزبندی بین لایه‌های Presentation، Domain و Data باید حفظ شود.
 
 ## تیم
 
