@@ -6,16 +6,31 @@
 
 | نفر | نقش | مسئولیت |
 | --- | --- | --- |
-| [Amin Sakha](https://github.com/aminsakha) (`@aminsakha`) | Project/Repository Owner | هماهنگی پروژه، مدیریت ریپو و تصمیم‌های نهایی |
-| `behnam` | Android/Media3 Developer | راه‌اندازی Media3 و پیاده‌سازی اتصال Player |
+| [Amin Sakha](https://github.com/aminsakha) (`@aminsakha`) | Project Owner & Project Coordinator | مالک پروژه، هماهنگی تیم، مدیریت ریپو و تصمیم‌های نهایی |
+| `behnam` | Developer | راه‌اندازی Media3 و پیاده‌سازی اتصال Player |
+| `mohamad ali farajolahi` | Developer | اسکن فایل‌های صوتی و نمایش کتابخانه موسیقی |
+| `Shayan armannia` | Developer | پیاده‌سازی پخش صدا و صفحه Player |
+| `مهدیار قزوینیان` | Developer | پیاده‌سازی صف پخش و جست‌وجوی آهنگ‌ها |
+| `Abolfazl Khalili` | Developer | اعلان Media، آهنگ‌های اخیر و آماده‌سازی انتشار |
+| `Parsa` | Developer | آهنگ‌های موردعلاقه، تنظیمات و آماده‌سازی انتشار |
+| `Leila Abdi` | Developer | تست و کنترل کیفیت |
 
-> طبق برد Trello، تسک‌های اجرایی MVP به `behnam` تخصیص داده شده‌اند. اگر هندل GitHub بهنام متفاوت است، منشن README و Reviewers را با هندل دقیق به‌روزرسانی کنید.
+> این فهرست بر اساس کارت‌هایی است که در برد Trello به اعضا assign شده‌اند. نام‌ها عیناً از Trello استخراج شده‌اند؛ برای منشن GitHub، هندل دقیق هر نفر باید در GitHub مشخص شود.
 
 ## MVP فعلی
 
 - **Set Up Media3 Framework** — راه‌اندازی وابستگی‌ها و اسکلت Media3. مسئول: `behnam` — [Trello](https://trello.com/c/iRuCxnPp/67-set-up-media3-framework)
 - **Implement Media3 Player Integration** — اتصال Player و آماده‌سازی پخش موسیقی. مسئول: `behnam` — [Trello](https://trello.com/c/Bb5vsWHt/68-implement-media3-player-integration)
 - **MVP Version** — کارت مادر اسپرینت MVP — [Trello](https://trello.com/c/zTHovh5v/65-mvp-version)
+
+### سایر تخصیص‌های Trello
+
+- `mohamad ali farajolahi`: [Scan Local Audio Files](https://trello.com/c/XB70yd1y/44-scan-local-audio-files)، [Display Music Library](https://trello.com/c/pYjvZUcC/45-display-music-library)
+- `Shayan armannia`: [Implement Audio Playback](https://trello.com/c/dgzyHG6T/47-implement-audio-playback)، [Create Player Screen](https://trello.com/c/zXqN6u07/48-create-player-screen)
+- `مهدیار قزوینیان`: [Implement Queue](https://trello.com/c/l3McHqns/50-implement-queue)، [Search Songs](https://trello.com/c/nlHJAOOX/46-search-songs)
+- `Abolfazl Khalili`: [Media Notification](https://trello.com/c/JSYMOTBb/53-media-notification)، [Recently Played Songs](https://trello.com/c/dSi69QCt/54-recently-played-songs)، [App Polish & Release](https://trello.com/c/Q5vO5Aq1/58-app-polish-release)
+- `Parsa`: [Favorite Songs](https://trello.com/c/vmn4GiSQ/56-favorite-songs)، [Settings](https://trello.com/c/a8Cs31Qa/57-settings)، [App Polish & Release](https://trello.com/c/Q5vO5Aq1/58-app-polish-release)
+- `Leila Abdi`: [Testing](https://trello.com/c/M4MjQpbC/7-testing)
 
 تاریخ سررسید ثبت‌شده برای دو تسک اجرایی: **2026-08-22**.
 
