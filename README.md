@@ -2,6 +2,10 @@
 
 شروع پروژه‌ی موزیک‌پلیر تیم MFT بر پایه‌ی Android Media3.
 
+## معماری پروژه
+
+معماری پروژه باید بر پایه‌ی **MVI & Clean Architecture** پیاده‌سازی شود. مرزبندی بین لایه‌های Presentation، Domain و Data باید حفظ شود و جریان وضعیت UI از طریق Intent، ViewState و Single Source of Truth مدیریت شود.
+
 ## تیم
 
 | نفر | نقش | مسئولیت |
@@ -16,25 +20,6 @@
 | `Leila Abdi` | UI/UX Designer & Tester | طراحی تجربه و رابط کاربری، تست و کنترل کیفیت |
 
 > این فهرست بر اساس کارت‌هایی است که در برد Trello به اعضا assign شده‌اند. نام‌ها عیناً از Trello استخراج شده‌اند؛ برای منشن GitHub، هندل دقیق هر نفر باید در GitHub مشخص شود.
-
-## MVP فعلی
-
-- **Set Up Media3 Framework** — راه‌اندازی وابستگی‌ها و اسکلت Media3. مسئول: `behnam` — [Trello](https://trello.com/c/iRuCxnPp/67-set-up-media3-framework)
-- **Implement Media3 Player Integration** — اتصال Player و آماده‌سازی پخش موسیقی. مسئول: `behnam` — [Trello](https://trello.com/c/Bb5vsWHt/68-implement-media3-player-integration)
-- **MVP Version** — کارت مادر اسپرینت MVP — [Trello](https://trello.com/c/zTHovh5v/65-mvp-version)
-
-### سایر تخصیص‌های Trello
-
-- `mohamad ali farajolahi`: [Scan Local Audio Files](https://trello.com/c/XB70yd1y/44-scan-local-audio-files)، [Display Music Library](https://trello.com/c/pYjvZUcC/45-display-music-library)
-- `Shayan armannia`: [Implement Audio Playback](https://trello.com/c/dgzyHG6T/47-implement-audio-playback)، [Create Player Screen](https://trello.com/c/zXqN6u07/48-create-player-screen)
-- `مهدیار قزوینیان`: [Implement Queue](https://trello.com/c/l3McHqns/50-implement-queue)، [Search Songs](https://trello.com/c/nlHJAOOX/46-search-songs)
-- `Abolfazl Khalili`: [Media Notification](https://trello.com/c/JSYMOTBb/53-media-notification)، [Recently Played Songs](https://trello.com/c/dSi69QCt/54-recently-played-songs)، [App Polish & Release](https://trello.com/c/Q5vO5Aq1/58-app-polish-release)
-- `Parsa`: [Favorite Songs](https://trello.com/c/vmn4GiSQ/56-favorite-songs)، [Settings](https://trello.com/c/a8Cs31Qa/57-settings)، [App Polish & Release](https://trello.com/c/Q5vO5Aq1/58-app-polish-release)
-- `Leila Abdi`: [Testing](https://trello.com/c/M4MjQpbC/7-testing)
-
-تاریخ سررسید ثبت‌شده برای دو تسک اجرایی: **2026-08-22**.
-
-برد برنامه‌ریزی: [MFT | Music_Player در Trello](https://trello.com/b/ruH9Ggzz/mft-musicplayer)
 
 ## استراتژی Git
 
