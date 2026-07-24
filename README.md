@@ -6,14 +6,14 @@
 
 | نفر | نقش | مسئولیت |
 | --- | --- | --- |
-| [Amin Sakha](https://github.com/aminsakha) (`@aminsakha`) | Project Owner & Project Coordinator | مالک پروژه، هماهنگی تیم، مدیریت ریپو و تصمیم‌های نهایی |
-| `behnam` | Developer | راه‌اندازی Media3 و پیاده‌سازی اتصال Player |
+| [Amin Sakha](https://github.com/aminsakha) (`@aminsakha`) | Project Manager | مدیریت پروژه، مدیریت ریپو و تصمیم‌های نهایی |
+| `behnam` | Project Coordinator | هماهنگی اجرای تسک‌ها، پیگیری وضعیت تیم و راه‌اندازی Media3 و اتصال Player |
 | `mohamad ali farajolahi` | Developer | اسکن فایل‌های صوتی و نمایش کتابخانه موسیقی |
 | `Shayan armannia` | Developer | پیاده‌سازی پخش صدا و صفحه Player |
 | `مهدیار قزوینیان` | Developer | پیاده‌سازی صف پخش و جست‌وجوی آهنگ‌ها |
 | `Abolfazl Khalili` | Developer | اعلان Media، آهنگ‌های اخیر و آماده‌سازی انتشار |
 | `Parsa` | Developer | آهنگ‌های موردعلاقه، تنظیمات و آماده‌سازی انتشار |
-| `Leila Abdi` | Developer | تست و کنترل کیفیت |
+| `Leila Abdi` | UI/UX Designer & Tester | طراحی تجربه و رابط کاربری، تست و کنترل کیفیت |
 
 > این فهرست بر اساس کارت‌هایی است که در برد Trello به اعضا assign شده‌اند. نام‌ها عیناً از Trello استخراج شده‌اند؛ برای منشن GitHub، هندل دقیق هر نفر باید در GitHub مشخص شود.
 
